@@ -1,0 +1,15 @@
+cara publish
+
+Masuk ke repositori Anda.
+
+Klik tab Settings (paling kanan).
+
+Scroll ke bawah ke bagian "Pages" atau "Pages" → "Deploy from a branch".
+
+Pilih:
+
+Source: main
+
+Folder: / (root) (jika file HTML ada di root repo)
+
+Klik Save.
